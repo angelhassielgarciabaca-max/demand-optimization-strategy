@@ -30,7 +30,20 @@ Este proyecto analiza patrones de movilidad urbana con el objetivo de optimizar 
 5.  **Modelado de Recomendación:** Algoritmo simple para sugerir reposicionamiento de flota en tiempo real.
 
 ---
+📁 didi-demand-optimization
+│
+├── 📁 data/               
+├── 📁 notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_analysis.ipynb  (EDA)
+│   └── 03_geospatial_mapping.ipynb
+├── 📁 visuals/            
+├── 📄 README.md          o
+├── 📄 requirements.txt    
+└── 📄 .gitignore         
 
+
+---
 ##  Insights Clave (Próximamente)
 > *Nota: Esta sección se actualizará conforme avance el análisis.*
 * Ejemplo: "Se detectó que la demanda en la Zona X aumenta un 40% los días de lluvia, pero la oferta de conductores cae un 15%."
